@@ -6,7 +6,7 @@ Here's a more concise and professional rewrite of your project with the author's
 
 A web-based solution utilizing machine learning to predict the productivity of garment factory workers, based on various operational factors.
 
-![Home Page]()
+![Home Page](https://github.com/ayushtripathi1025/Employee-Performance-Prediction/blob/master/Code%20Screenshots/Screenshot%202025-08-13%20003231.png)
 
 ---
 
@@ -52,15 +52,15 @@ Key goals of this project:
 
 #### About Page
 
-![About Page]()
+![About Page](https://github.com/ayushtripathi1025/Employee-Performance-Prediction/blob/master/Code%20Screenshots/Screenshot%202025-08-13%20003246.png)
 
 #### Prediction Form
 
-![Prediction Form]()
+![Prediction Form](https://github.com/ayushtripathi1025/Employee-Performance-Prediction/blob/master/Code%20Screenshots/Screenshot%202025-08-13%20005052.png)
 
 #### Result
 
-![Result]()
+![Result](https://github.com/ayushtripathi1025/Employee-Performance-Prediction/blob/master/Code%20Screenshots/Screenshot%202025-08-13%20003318.png)
 
 ---
 
