@@ -1,7 +1,3 @@
-Here's a more concise and professional rewrite of your project with the author's name updated to Ayush Tripathi:
-
----
-
 # Employee Productivity Prediction Using Machine Learning
 
 A web-based solution utilizing machine learning to predict the productivity of garment factory workers, based on various operational factors.
