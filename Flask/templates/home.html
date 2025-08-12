@@ -1,0 +1,46 @@
+{% extends 'base.html' %}
+
+{% block title %}
+Home - Employee Productivity Prediction
+{% endblock %}
+
+{% block content %}
+<div class="text-center">
+    <!-- Main Heading -->
+    <h1 class="text-4xl md:text-6xl font-extrabold text-gray-800 leading-tight">
+        Unlock Your Team's <span class="text-green-600">True Potential</span>
+    </h1>
+    
+    <!-- Subheading -->
+    <p class="mt-6 max-w-2xl mx-auto text-lg text-gray-600">
+        Harness machine learning to forecast productivity. Make smart decisions that boost efficiency, growth.
+    </p>
+    
+    <!-- Call-to-Action Button -->
+    <div class="mt-10">
+        <a href="{{ url_for('predict') }}" 
+           class="inline-block bg-green-600 text-white font-semibold px-8 py-4 rounded-lg shadow-lg hover:bg-green-700 transform hover:-translate-y-1 transition-all duration-300">
+            Start Predicting Now &rarr;
+        </a>
+    </div>
+</div>
+
+<!-- Features Section -->
+<div class="mt-20 grid md:grid-cols-3 gap-10 text-center">
+    <div class="bg-white p-8 rounded-xl shadow-md hover:shadow-xl transition-shadow duration-300">
+        <div class="text-4xl text-green-500 mb-4">🎯</div>
+        <h3 class="text-xl font-bold text-gray-800">Insightful Data Analysis</h3>
+        <p class="mt-2 text-gray-600">Replace guesswork with precise, reliable predictions every time.</p>
+    </div>
+    <div class="bg-white p-8 rounded-xl shadow-md hover:shadow-xl transition-shadow duration-300">
+        <div class="text-4xl text-green-500 mb-4">📈</div>
+        <h3 class="text-xl font-bold text-gray-800">Optimize Your Resources</h3>
+        <p class="mt-2 text-gray-600">Assign tasks wisely by recognizing your top-performing employees.</p>
+    </div>
+    <div class="bg-white p-8 rounded-xl shadow-md hover:shadow-xl transition-shadow duration-300">
+        <div class="text-4xl text-green-500 mb-4">💡</div>
+        <h3 class="text-xl font-bold text-gray-800">Manage Proactively</h3>
+        <p class="mt-2 text-gray-600">Spot training needs early, before problems impact results.</p>
+    </div>
+</div>
+{% endblock %}
