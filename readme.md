@@ -124,4 +124,4 @@ This project effectively demonstrates an end-to-end machine learning solution. A
 
 ---
 
-**Author:** Ayush Tripathi
+**Author:** Ayush Tripathi & Ayush Kumar Singh
